@@ -1,3 +1,5 @@
+![logo](https://github.com/AtanasDimitrov12/AtanasDimitrov12/blob/main/Hi%2C%20My%20name%20is%20Atanas%20Dimitrov.png)
+
 <h1 align="center">Hi 👋, I'm Atanas Dimitrov</h1>
 <h3 align="center">A passionate web developer from Bulgaria</h3>
 
