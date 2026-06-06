@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanasdimitrov12&label=Profile%20views&color=0e75b6&style=flat" alt="atanasdimitrov12" /> </p>
 
 
-- 💻 I’m a third-semester Software Engineering student at Fontys University of Applied Sciences.
+- 💻 I’m a seventh-semester Software Engineering student at Fontys University of Applied Sciences.
   
 - 👀 I’m interested in web development, backend systems, and exploring new technologies like AI.
   
